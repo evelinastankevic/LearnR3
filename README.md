@@ -1,8 +1,6 @@
 Evelina
 Genetic Epidemiology
 
-A new message
-
 TODO: Add more to the title of your project here
 
 # LearnR3:
